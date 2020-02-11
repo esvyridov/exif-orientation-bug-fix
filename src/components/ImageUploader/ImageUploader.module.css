@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.preview {
+  max-width: 160px;
+  border: 1px solid #000;
+  margin-bottom: 16px;
+  /* image-orientation: from-image; */
+}
